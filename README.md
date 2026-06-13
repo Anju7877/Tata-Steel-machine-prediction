@@ -1,10 +1,17 @@
 # Tata Steel Machine Failure Prediction
 
 ## Project Overview
-This project focuses on predicting machine failures using Machine Learning techniques. The goal is to build a predictive maintenance system that helps identify potential machine failures before they occur, reducing downtime and maintenance costs.
+- Predict machine failures using Machine Learning.
+- Build a predictive maintenance system.
+- Reduce downtime and maintenance costs.
 
 ## Problem Statement
-Machine failures in manufacturing industries can lead to production losses and increased operational costs. This project uses sensor and operational data to predict machine failures and support proactive maintenance planning.
+Machine failures in manufacturing industries can lead to:
+- Production losses
+- Increased maintenance costs
+- Reduced operational efficiency
+
+This project predicts machine failures using sensor and operational data.
 
 ## Dataset Features
 - Air Temperature [K]
@@ -46,13 +53,13 @@ Machine failures in manufacturing industries can lead to production losses and i
 - F1-Score
 
 ## Results
-Random Forest Classifier delivered the best overall performance for machine failure prediction.
+- Random Forest Classifier delivered the best performance.
 
 ## Business Impact
-- Reduces unexpected machine breakdowns
+- Reduces machine breakdowns
 - Improves maintenance planning
 - Lowers operational costs
-- Increases productivity and efficiency
+- Increases productivity
 
 ## Author
-Anju Khedar
+**Anju Khedar**
